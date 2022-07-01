@@ -1,0 +1,50 @@
+[
+	{
+		"title": "Caramelo media hora",
+		"price": 30,
+		"thumbnail": "https://www.infocanuelas.com/app/media/media-hora-caramelo.jpeg",
+		"id": 1
+	},
+	{
+		"title": "Flynpaff",
+		"price": 20,
+		"thumbnail": "https://www.georgalos.com.ar/assets/imagesHQ/productos/caramelos/caramelos_1_1-min.png",
+		"id": 2
+	},
+	{
+		"title": "Sugus",
+		"price":20 ,
+		"thumbnail": "https://daisyshousecotillon.com.ar/wp-content/uploads/2020/06/SUGUSDAISYSHOUSE.jpg",
+		"id": 3
+	},
+	{
+		"title": "Sugus max",
+		"price": 25,
+		"thumbnail": "https://cdn11.bigcommerce.com/s-abmjjefojj/images/stencil/1280x1280/products/3384/13633/Sugus-Caramelos-Argentina_Select-1000x1000__24588.1611330623.jpg?c=1&imbypass=ong",
+		"id": 4
+	},
+	{
+		"title": "Cubanito",
+		"price": 35,
+		"thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/685818/Cubanito-Georgalos-1-883262.jpg?v=637787434409470000",
+		"id": 5
+	},
+	{
+		"title": "Rocklets",
+		"price": 45,
+		"thumbnail": "https://farmacityar.vteximg.com.br/arquivos/ids/186442-1000-1000/16636_confites-rocklets-x-40-gr_imagen-1.jpg?v=636976712240300000",
+		"id": 6
+	},
+	{
+		"title": "MILKA OREO",
+		"price": 120,
+		"thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/201331/7622210277503_02.jpg?v=637557482277230000",
+		"id": 7
+	},
+	{
+		"title": "SERENITO",
+		"price": "150",
+		"thumbnail": "https://www.laserenisimavaatucasa.com.ar/wp-content/uploads/2021/02/Imagenes-LSVTC-46.png",
+		"id": 8
+	}
+]
